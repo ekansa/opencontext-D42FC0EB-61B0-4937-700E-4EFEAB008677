@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="01C1FCAB-0F31-4866-E905-A16E80BBCB8F" ownedBy="D42FC0EB-61B0-4937-700E-4EFEAB008677">
+  <arch:name>
+    <arch:string>Site 37900</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_5_30a61ec52</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>57CD7F8B-FB68-4D9D-CE0A-C258C4894D51</arch:variableID>
+          <arch:valueID>982A57BB-20FE-4D82-6119-EA1270962DE0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1A0CE754-83A2-4907-5370-828404A98D2B">1A0CE754-83A2-4907-5370-828404A98D2B</oc:propid>
+          <oc:var_label type="alphanumeric">Site number</oc:var_label>
+          <oc:show_val>Po-1148</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AEB623A8-CCAE-452E-2384-534B092F62FA</arch:variableID>
+          <arch:valueID>1A080D9E-345A-4770-9B58-A1FC942611CB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D0EAA6B8-FE7D-4FC6-9ED9-60AB10148551">D0EAA6B8-FE7D-4FC6-9ED9-60AB10148551</oc:propid>
+          <oc:var_label type="alphanumeric">Project name</oc:var_label>
+          <oc:show_val type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml"><div>CABORN-WELBORN SURVEY &amp; TESTING 96-97, MURPHY SITE &amp;
+ENVIRONS</div>
+</div>
+          </oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6536B1BE-E835-4FA1-30BC-53DF3441E221</arch:variableID>
+          <arch:valueID>CDBE4490-B841-434B-D08E-9290F2AA20D0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/719F520B-98FE-48AE-2936-A57D4864C4D8">719F520B-98FE-48AE-2936-A57D4864C4D8</oc:propid>
+          <oc:var_label type="alphanumeric">Surface exploration methods</oc:var_label>
+          <oc:show_val>TOTAL SURFACE PICKUP</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F21BE180-8E95-445B-58A9-6804936AA948</arch:variableID>
+          <arch:valueID>5D6B4E33-B2BE-414E-0245-990B4B1537F4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9A90EC2F-C2A3-4907-45DB-363DF80B1049">9A90EC2F-C2A3-4907-45DB-363DF80B1049</oc:propid>
+          <oc:var_label type="nominal">NRHP peligible</oc:var_label>
+          <oc:show_val>-1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2A792407-11AD-4CCA-2E79-CACEF5DA7B40</arch:variableID>
+          <arch:valueID>5D6B4E33-B2BE-414E-0245-990B4B1537F4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DFE0A3CE-4049-4F45-2140-962B785C74CE">DFE0A3CE-4049-4F45-2140-962B785C74CE</oc:propid>
+          <oc:var_label type="nominal">IRHSS peligible</oc:var_label>
+          <oc:show_val>-1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9D0D24D5-0F05-42A2-7620-243C375F8834</arch:variableID>
+          <arch:valueID>D4B1945A-01C2-4255-AEFF-F8F0EAF88EEE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/28930A38-3286-47C1-BAD9-0C1E0843A714">28930A38-3286-47C1-BAD9-0C1E0843A714</oc:propid>
+          <oc:var_label type="nominal">Site type</oc:var_label>
+          <oc:show_val>Habitation</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>38144DED-E43F-4F59-E2C0-8F785197F46D</arch:variableID>
+          <arch:valueID>6481DC78-B070-4065-BA2D-014C40E05217</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A3F2023D-95C4-46B6-9FAB-2E02673F033A">A3F2023D-95C4-46B6-9FAB-2E02673F033A</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>Middle Woodland</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="38144DED-E43F-4F59-E2C0-8F785197F46D" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="A3F2023D-95C4-46B6-9FAB-2E02673F033A" localURI="http://opencontext.org/properties/A3F2023D-95C4-46B6-9FAB-2E02673F033A" href="http://opencontext.org/vocabularies/dinaa/00019">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Middle Woodland</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/BFE2FC00-938B-4E4A-DA91-8A2FC9AC05D7">
+        <oc:name>Indiana</oc:name>
+        <oc:id>BFE2FC00-938B-4E4A-DA91-8A2FC9AC05D7</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/C54CBBC8-EACB-4112-6708-9376C1FA41A0">
+        <oc:name>Posey</oc:name>
+        <oc:id>C54CBBC8-EACB-4112-6708-9376C1FA41A0</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Indiana Site Files: Site 37900 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-02-06</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Indiana</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Indiana DNR-DHPA</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/01C1FCAB-0F31-4866-E905-A16E80BBCB8F</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/D42FC0EB-61B0-4937-700E-4EFEAB008677">Indiana Site Files</oc:project_name>
+    <oc:pub_date>2014-02-06T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Indiana+Site+Files%3A+Site+37900+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Indiana&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Indiana+DNR-DHPA&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F01C1FCAB-0F31-4866-E905-A16E80BBCB8F</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.78804874092</oc:geo_lat>
+      <oc:geo_long>-87.978515625</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/01C1FCAB-0F31-4866-E905-A16E80BBCB8F" specificity="-11">
+        <oc:note>Approximated by geotile to zoom level 11</oc:note>
+        <oc:source_name>Site 37900</oc:source_name>
+        <oc:source_id>01C1FCAB-0F31-4866-E905-A16E80BBCB8F</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-03-07T02:56:17-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/03/07 02:56:17</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(200 CE - 600 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>200</oc:time_start>
+          <oc:time_finish>600</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/01C1FCAB-0F31-4866-E905-A16E80BBCB8F">
+            <oc:source_name>Site 37900</oc:source_name>
+            <oc:source_id>01C1FCAB-0F31-4866-E905-A16E80BBCB8F</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2014-03-05T11:53:48-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

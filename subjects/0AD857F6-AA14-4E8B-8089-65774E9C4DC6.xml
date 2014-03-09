@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="0AD857F6-AA14-4E8B-8089-65774E9C4DC6" ownedBy="D42FC0EB-61B0-4937-700E-4EFEAB008677">
+  <arch:name>
+    <arch:string>Kentucky</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Region</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_5_30a61ec52</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>DFEDE5C0-F028-4EDA-E6E3-253688DF2CF1</arch:variableID>
+          <arch:integer>21</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/F641A824-B1DF-4D05-6E00-1A0D4657B2D3">F641A824-B1DF-4D05-6E00-1A0D4657B2D3</oc:propid>
+          <oc:var_label type="integer">State FIPS</oc:var_label>
+          <oc:show_val>21</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/[ROOT]:D42FC0EB-61B0-4937-700E-4EFEAB008677">
+        <oc:name/>
+        <oc:id>[ROOT]:D42FC0EB-61B0-4937-700E-4EFEAB008677</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name/>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/AC796FF3-66C5-45A4-2E2B-5DAD2202B7CD">
+        <oc:name>Boone</oc:name>
+        <oc:id>AC796FF3-66C5-45A4-2E2B-5DAD2202B7CD</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5CDAF61A-0BE6-46E4-D442-4BB2AD7E2443">
+        <oc:name>Breckinridge</oc:name>
+        <oc:id>5CDAF61A-0BE6-46E4-D442-4BB2AD7E2443</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4EEA4CAC-9425-420F-0963-B35F6B98D2D3">
+        <oc:name>Carroll</oc:name>
+        <oc:id>4EEA4CAC-9425-420F-0963-B35F6B98D2D3</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8F11E2E2-0A52-44F4-9E6E-103A0CA8C901">
+        <oc:name>Daviess</oc:name>
+        <oc:id>8F11E2E2-0A52-44F4-9E6E-103A0CA8C901</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/15C63CFC-A105-4FB6-EF78-24DF4527A8A7">
+        <oc:name>Gallatin</oc:name>
+        <oc:id>15C63CFC-A105-4FB6-EF78-24DF4527A8A7</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B351A98E-D174-44EA-A039-F46970A79218">
+        <oc:name>Hancock</oc:name>
+        <oc:id>B351A98E-D174-44EA-A039-F46970A79218</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/65564794-A0E6-439A-CF5A-239751CB70E3">
+        <oc:name>Hardin</oc:name>
+        <oc:id>65564794-A0E6-439A-CF5A-239751CB70E3</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C6CE4275-3A50-4E91-8FFB-927ADB61C570">
+        <oc:name>Henderson</oc:name>
+        <oc:id>C6CE4275-3A50-4E91-8FFB-927ADB61C570</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E9F87772-884E-4B79-6972-E8BE8FF87ED1">
+        <oc:name>Jefferson</oc:name>
+        <oc:id>E9F87772-884E-4B79-6972-E8BE8FF87ED1</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D8C08334-82FB-44B7-5C3F-7F1C11B189E7">
+        <oc:name>Meade</oc:name>
+        <oc:id>D8C08334-82FB-44B7-5C3F-7F1C11B189E7</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A296AEB8-874C-4E49-077F-214457B1A2FD">
+        <oc:name>Oldham</oc:name>
+        <oc:id>A296AEB8-874C-4E49-077F-214457B1A2FD</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/14E59341-DC82-4687-4129-6D244D68D411">
+        <oc:name>Trimble</oc:name>
+        <oc:id>14E59341-DC82-4687-4129-6D244D68D411</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FEB16D05-2965-4C0A-C7D3-0F31398DC373">
+        <oc:name>Union</oc:name>
+        <oc:id>FEB16D05-2965-4C0A-C7D3-0F31398DC373</oc:id>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Indiana Site Files: Kentucky (Region)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-02-06</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Indiana</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Indiana DNR-DHPA</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/0AD857F6-AA14-4E8B-8089-65774E9C4DC6</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/D42FC0EB-61B0-4937-700E-4EFEAB008677">Indiana Site Files</oc:project_name>
+    <oc:pub_date>2014-02-06T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Indiana+Site+Files%3A+Kentucky+%28Region%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Indiana&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Indiana+DNR-DHPA&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F0AD857F6-AA14-4E8B-8089-65774E9C4DC6</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat/>
+      <oc:geo_long/>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/0AD857F6-AA14-4E8B-8089-65774E9C4DC6">
+        <oc:source_name/>
+        <oc:source_id>0AD857F6-AA14-4E8B-8089-65774E9C4DC6</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-03-05T23:38:13-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/03/05 23:38:13</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

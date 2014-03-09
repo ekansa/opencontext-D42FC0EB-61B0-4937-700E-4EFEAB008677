@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="893F06CD-5828-47CB-201D-FF3BBC648B60" ownedBy="D42FC0EB-61B0-4937-700E-4EFEAB008677">
+  <arch:name>
+    <arch:string>Site 32171</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_5_30a61ec52</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>57CD7F8B-FB68-4D9D-CE0A-C258C4894D51</arch:variableID>
+          <arch:valueID>7C604171-83D6-447A-5D17-7D9BE7099ACC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E6815F29-478C-4BF7-FA1E-49DB41AE8BB6">E6815F29-478C-4BF7-FA1E-49DB41AE8BB6</oc:propid>
+          <oc:var_label type="alphanumeric">Site number</oc:var_label>
+          <oc:show_val>Fr-0111</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6536B1BE-E835-4FA1-30BC-53DF3441E221</arch:variableID>
+          <arch:valueID>A92959C4-B7F9-467C-B206-FD4E0CB379B4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5B87CD3C-920C-4C3B-3134-5131A2303ED0">5B87CD3C-920C-4C3B-3134-5131A2303ED0</oc:propid>
+          <oc:var_label type="alphanumeric">Surface exploration methods</oc:var_label>
+          <oc:show_val type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml"><div>Surface material found previously and given to Setzler by Mr.
+Martin: Human bones, slate - pendants and a gorget, sherds "deeply
+&amp; well incised . . . Fort Ancient"</div>
+</div>
+          </oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C101D0F7-FF36-4D43-5816-AC69C6882991</arch:variableID>
+          <arch:valueID>E1160E32-7021-4AC2-330C-6C20DEF6DDE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/23276072-DBEE-48F5-1C09-4C01E8B14818">23276072-DBEE-48F5-1C09-4C01E8B14818</oc:propid>
+          <oc:var_label type="nominal">NRHP register</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DFFB3A54-82A1-47CC-06DA-C8BFE0405404</arch:variableID>
+          <arch:valueID>E1160E32-7021-4AC2-330C-6C20DEF6DDE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/736E74E6-5D96-41A2-8334-6A76C67DED32">736E74E6-5D96-41A2-8334-6A76C67DED32</oc:propid>
+          <oc:var_label type="nominal">NRHP eligible</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F21BE180-8E95-445B-58A9-6804936AA948</arch:variableID>
+          <arch:valueID>E1160E32-7021-4AC2-330C-6C20DEF6DDE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CC668781-FCB6-4E55-AA29-38C4E52EF3C4">CC668781-FCB6-4E55-AA29-38C4E52EF3C4</oc:propid>
+          <oc:var_label type="nominal">NRHP peligible</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>85EDF806-CA5D-4882-2622-6D6FCDE9F684</arch:variableID>
+          <arch:valueID>E1160E32-7021-4AC2-330C-6C20DEF6DDE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CDD01D16-452C-45B2-5B4C-6D04E3D935C3">CDD01D16-452C-45B2-5B4C-6D04E3D935C3</oc:propid>
+          <oc:var_label type="nominal">NRHP indeterminate</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5CA1F6C5-BDCE-445C-CCF7-239EC6EBA1D0</arch:variableID>
+          <arch:valueID>E1160E32-7021-4AC2-330C-6C20DEF6DDE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2ADEE530-C9F6-4DD7-4CFC-003409F9C225">2ADEE530-C9F6-4DD7-4CFC-003409F9C225</oc:propid>
+          <oc:var_label type="nominal">NRHP ineligible</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CD41A332-BA4D-4F30-1558-97412AE8C0CE</arch:variableID>
+          <arch:valueID>E1160E32-7021-4AC2-330C-6C20DEF6DDE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/684291F7-282A-4149-606B-2D2AD3737CC6">684291F7-282A-4149-606B-2D2AD3737CC6</oc:propid>
+          <oc:var_label type="nominal">IRHSS register</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>22D5C19A-FFAC-4B2B-DBBD-AF96130ED477</arch:variableID>
+          <arch:valueID>E1160E32-7021-4AC2-330C-6C20DEF6DDE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/58E7094A-11E0-40A1-4338-C3252DA4632D">58E7094A-11E0-40A1-4338-C3252DA4632D</oc:propid>
+          <oc:var_label type="nominal">IRHSS eligible</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2A792407-11AD-4CCA-2E79-CACEF5DA7B40</arch:variableID>
+          <arch:valueID>E1160E32-7021-4AC2-330C-6C20DEF6DDE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BDBD68A2-9DDD-48ED-6E27-4C44E3C8C324">BDBD68A2-9DDD-48ED-6E27-4C44E3C8C324</oc:propid>
+          <oc:var_label type="nominal">IRHSS peligible</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9B63187C-1B89-412F-7198-C190A291235F</arch:variableID>
+          <arch:valueID>E1160E32-7021-4AC2-330C-6C20DEF6DDE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F9F0E2CC-B2D8-4CDC-A574-45E53C3E7B73">F9F0E2CC-B2D8-4CDC-A574-45E53C3E7B73</oc:propid>
+          <oc:var_label type="nominal">IRHSS ineligible</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E91239B0-B793-4FF9-9FFE-F426F9C3B347</arch:variableID>
+          <arch:valueID>E1160E32-7021-4AC2-330C-6C20DEF6DDE3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/651722BF-BC27-42F4-EC10-9BF7A6BE5D04">651722BF-BC27-42F4-EC10-9BF7A6BE5D04</oc:propid>
+          <oc:var_label type="nominal">IRHSS indeterminate</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9D0D24D5-0F05-42A2-7620-243C375F8834</arch:variableID>
+          <arch:valueID>F011C34A-C291-4DF2-C425-9F1513C3DB1B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/24CCFD03-9088-46E8-8A0F-B12CEA6B0FAA">24CCFD03-9088-46E8-8A0F-B12CEA6B0FAA</oc:propid>
+          <oc:var_label type="nominal">Site type</oc:var_label>
+          <oc:show_val>Mound</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/BFE2FC00-938B-4E4A-DA91-8A2FC9AC05D7">
+        <oc:name>Indiana</oc:name>
+        <oc:id>BFE2FC00-938B-4E4A-DA91-8A2FC9AC05D7</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/081D1091-3214-4F0B-F1D8-C13B0E423960">
+        <oc:name>Franklin</oc:name>
+        <oc:id>081D1091-3214-4F0B-F1D8-C13B0E423960</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Indiana Site Files: Site 32171 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-02-06</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Indiana</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Indiana DNR-DHPA</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/893F06CD-5828-47CB-201D-FF3BBC648B60</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/D42FC0EB-61B0-4937-700E-4EFEAB008677">Indiana Site Files</oc:project_name>
+    <oc:pub_date>2014-02-06T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Indiana+Site+Files%3A+Site+32171+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Indiana&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Indiana+DNR-DHPA&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F893F06CD-5828-47CB-201D-FF3BBC648B60</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>39.436159927372</oc:geo_lat>
+      <oc:geo_long>-85.166015625</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/893F06CD-5828-47CB-201D-FF3BBC648B60" specificity="-11">
+        <oc:note>Approximated by geotile to zoom level 11</oc:note>
+        <oc:source_name>Site 32171</oc:source_name>
+        <oc:source_id>893F06CD-5828-47CB-201D-FF3BBC648B60</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-03-07T01:39:37-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/03/07 01:39:37</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>
